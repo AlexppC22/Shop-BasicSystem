@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1960d7589bf6a7943af73effce13df3b, type: 3}
+  m_Name: RedShirt
+  m_EditorClassIdentifier: 
+  equipmentName: Red Shirt
+  equipmentCost: 50
+  equipType: 0
+  equipmentIconSprite: {fileID: 21300000, guid: 4b8029dc066c19b47917cfc1204a8658, type: 3}
+  equipmentGameSprite: {fileID: 21300000, guid: f8718395c4d2f654787c965609897fba, type: 3}
+  equipmentPrefab: {fileID: 139371222154469108, guid: cddca1cffe884ab4caf0536b037cf0ac, type: 3}
+  icon: {fileID: 0}
